@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import ToastMessage from "./ToastMessage";
 
 let index = 1;

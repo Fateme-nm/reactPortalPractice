@@ -25,6 +25,7 @@ const Toast = () => {
   };
 
   return (
+    
     <div>
       <button onClick={handleAdd}>show toast message</button>
       <ToastMessage messages={messages}/>
